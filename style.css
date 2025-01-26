@@ -348,7 +348,7 @@ footer {
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
   position: absolute; /* Position button absolutely within container */
-  bottom: 90px; /* Distance from the bottom of the container */
+  bottom: 65px; /* Distance from the bottom of the container */
   left: 70%; /* Center the button horizontally */
   transform: translateX(-50%); /* Adjust horizontal centering */
   transition: all 0.3s ease;
@@ -371,7 +371,7 @@ footer {
   cursor: pointer;
   font-size: 20px;
   position: absolute; /* Position button absolutely within container */
-  bottom: 90px; /* Distance from bottom */
+  bottom: 65px; /* Distance from bottom */
   left: 30%;
   transform: translateX(-50%); /* Center the button horizontally */
 }
